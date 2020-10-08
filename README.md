@@ -1,0 +1,1 @@
+# wordpress-s2i
